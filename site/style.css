@@ -1,0 +1,40 @@
+body{
+    color: darkslategrey;
+    font-family: Arial, sans-serif;
+    font-size: 17px;
+}
+
+img{
+    border-radius: 100%;
+}
+
+.titulo{
+    text-align: center;
+}
+
+h1{
+    font-size: 31px;
+
+}
+
+h2{
+    font-size: 24px;
+    background-color: lightskyblue;
+}
+
+h1, h2, a{
+    color: darkblue;
+}
+
+a:visited{
+    color: darkblue;
+}
+
+a:visited, a{
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
