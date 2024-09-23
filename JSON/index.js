@@ -8,7 +8,7 @@ let aluno = {
   console.log(`Nome do aluno: ${aluno.nome}`);
   console.log(`Primeira nota: ${aluno.notas[0]}`);
   
-  aluno.idade = 24;
+  aluno.idade = 22;
   aluno.notas.push(9.5);
   
   console.log(aluno);
